@@ -1,0 +1,6 @@
+[
+  {"id":1,"question":"What are your support hours?","answer":"Our support team is available Monday–Friday, 9:00 AM to 6:00 PM IST."},
+  {"id":2,"question":"How can I reset my password?","answer":"Click 'Forgot password' on the sign-in page and follow the email link to reset your password."},
+  {"id":3,"question":"What is your refund policy?","answer":"We offer a 14-day refund policy on eligible purchases. Contact support with your order ID."},
+  {"id":4,"question":"How do I contact support?","answer":"Email support@example.com or call +91-XXXXXXXXXX during business hours."}
+]
